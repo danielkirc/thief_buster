@@ -1,3 +1,8 @@
-dlib
-face_recognition
-opencv-python
+Click==7.0
+cmake==3.13.3
+dlib==19.16.0
+face-recognition==1.2.3
+face-recognition-models==0.3.0
+numpy==1.16.0
+opencv-python==4.0.0.21
+Pillow==5.4.1
