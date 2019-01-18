@@ -2,9 +2,7 @@
 import face_recognition
 import cv2
 
-# Video source
-# remote_server, android, webcam
-from credentials import webcam as video_source
+video_source = "rtsp://..."
 
 def main():
     # TODO: Save / restore from file
